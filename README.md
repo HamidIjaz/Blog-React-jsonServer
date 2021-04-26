@@ -1,3 +1,5 @@
+npm install
+
 Two ways to use json server
 1st way:
 npm i json-server
@@ -5,7 +7,7 @@ serve -s build -p 8000
 npm run server
 
 2nd way:
-px json-server --watch data/db.json --port 8000
+npx json-server --watch data/db.json --port 8000
 
 
 
