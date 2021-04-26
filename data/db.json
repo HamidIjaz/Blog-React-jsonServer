@@ -1,46 +1,16 @@
 {
   "blogs": [
     {
-      "title": "w",
-      "body": "sss",
-      "author": "dddd",
-      "id": 1
-    },
-    {
-      "title": "ejejjeje",
+      "title": "Lorem lipsum",
       "body": "What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?",
       "author": "Ali",
       "id": 2
     },
     {
-      "title": "sarkar",
-      "body": "What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?",
-      "author": "ahmad",
-      "id": 3
-    },
-    {
-      "title": "sseed",
-      "body": "What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?",
-      "author": "",
-      "id": 4
-    },
-    {
-      "title": "dd",
-      "body": "dd",
+      "title": "Tips",
+      "body": "Don't do Nothing\n",
       "author": "Ahmad",
       "id": 5
-    },
-    {
-      "title": "s",
-      "body": "s",
-      "author": "",
-      "id": 6
-    },
-    {
-      "title": "s",
-      "body": "s",
-      "author": "",
-      "id": 7
     }
   ]
 }

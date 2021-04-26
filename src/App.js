@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import CreatePost from './components/CreatePost';
 import BlogDetail from './components/BlogDetail';
 import NotFound from './components/NotFound';
+import UpdatePost from './components/UpdatePost';
 
 function App() {
   return (
@@ -21,9 +22,12 @@ function App() {
             <Route path="/blogs/:id">
               <BlogDetail />
             </Route>
+            <Route path="/update/:id">
+              <UpdatePost />
+            </Route>
             <Route path="*">
               <NotFound />
-            </Route>
+            </Route>            
           </Switch>
         </div>
       </div>
